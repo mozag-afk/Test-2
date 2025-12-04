@@ -1,0 +1,8 @@
+{
+  "name": "test 1",
+  "description": "Task registration and management for technicians and administrators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
